@@ -1,0 +1,11 @@
+{
+  "name": "x-wing2.0-project-goldenrod",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrelind/x-wing2.0-project-goldenrod.git",
+  "author": "André Lind <andre@lindapp.se>",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.29.1"
+  }
+}
